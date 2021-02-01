@@ -1,0 +1,4 @@
+﻿  main.cpp
+d:\faculty\semester 6\3d-graphics\maze3dgameproject\sourcecode\maze3d\maze3d\main.cpp(105): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+  Maze3D.vcxproj -> D:\Faculty\semester 6\3D-Graphics\Maze3DGameProject\SourceCode\Maze3D\Debug\Maze3D.exe
+  Maze3D.vcxproj -> D:\Faculty\semester 6\3D-Graphics\Maze3DGameProject\SourceCode\Maze3D\Debug\Maze3D.pdb (Partial PDB)
